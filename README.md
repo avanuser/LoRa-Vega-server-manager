@@ -10,6 +10,7 @@ More information about Vega Network Server and its API you can find here:
 If you need to migrate from PySide6 to PySide2 just rename "PySide6" to "PySide2" in imports and change the following lines at the end of main.py:
 
 \# sys.exit(app.exec())  # PySide6
+
 sys.exit(app.exec_())   # PySide2
 
 
