@@ -5,7 +5,7 @@ This is a base program with GUI for communicating with LoRa Vega Network Server 
 Vega Network Server is a tool for management of all-scale LoRaWAN® networks. 
 Qt Python program communicates with Vega Network Server using Open API based on WebSocket/JSON technologies.
 More information about Vega Network Server and its API you can find here:
-![https://en.iotvega.com/product/server](https://en.iotvega.com/product/server)
+[https://en.iotvega.com/product/server](https://en.iotvega.com/product/server)
 
 If you need to migrate from PySide6 to PySide2 just rename "PySide6" to "PySide2" in imports and change the following lines at the end of main.py:
 
