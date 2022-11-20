@@ -14,4 +14,4 @@ If you need to migrate from PySide6 to PySide2 just rename "PySide6" to "PySide2
 sys.exit(app.exec_())   # PySide2
 
 
-![Qt Python LoRa Vega server manager with GUI](https://github.com/avanuser/LoRa-Vega-server-manager/blob/main/lora_vega_manager.png)
+![Qt Python LoRa Vega server manager with GUI](lora_vega_manager.png)
