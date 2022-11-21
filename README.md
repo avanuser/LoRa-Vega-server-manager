@@ -1,7 +1,7 @@
-# LoRa-Vega-server-manager
-Qt Python LoRa Vega server manager with GUI
+# LoRaWAN Vega server manager
+Qt Python LoRaWAN Vega server manager with GUI
 
-This is a base program with GUI for communicating with LoRa Vega Network Server through websocket.
+This is a base program with GUI for communicating with LoRaWAN Vega Network Server through websocket.
 Vega Network Server is a tool for management of all-scale LoRaWAN® networks. 
 Qt Python program communicates with Vega Network Server using Open API based on WebSocket/JSON technologies.
 More information about Vega Network Server and its API you can find here:
@@ -14,4 +14,4 @@ If you need to migrate from PySide6 to PySide2 just rename "PySide6" to "PySide2
 sys.exit(app.exec_())   # PySide2
 
 
-![Qt Python LoRa Vega server manager with GUI](lora_vega_manager.png)
+![Qt Python LoRaWAN Vega server manager with GUI](lora_vega_manager.png)
